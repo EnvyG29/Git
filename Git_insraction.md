@@ -148,4 +148,7 @@ git push -u имя_удаленного_репозитория имя_ветки
 git push
 
 скачивает с удаленного репозитория в локальный
-git 
+
+git dfgdfgdf  dgh
+dsghd
+dsgdgd
